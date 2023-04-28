@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=stavanadhyaru&show_icons=true&line_height=25&theme=radical)
  
-#### :rocket: My Stack
+#### :rocket: My Tech skills
 
 ![Java Badge](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-red)
