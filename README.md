@@ -24,7 +24,7 @@ Here are some ideas to get you started:
    
 <center>
   
- " <div align="center"> <br>
+ <div align="center"> <br>
 <img src="https://komarev.com/ghpvc/?username=stavanadhyaru&&style=flat-square" align="center" />
 </div>    <br>  
 
