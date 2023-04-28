@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## :man_technologist: Hello World! 
 <samp>
- I am a Mobile application developer. skilled in Android IOS and REact development.
+ I am a Mobile application developer. skilled in Android, IOS and React development.
 </samp><br>
    
 <center>
