@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-## :man_technologist: Hello World! 
+## :man_technologist: Hello! 
 <samp>
  I am a Mobile application developer. skilled in Android, IOS and React development.
 </samp><br>
@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 ![Swift](https://img.shields.io/badge/-Swift-red)
 ![Python Badge](https://img.shields.io/badge/-Python-306998?style=flat&logo=python&logoColor=white)
 ![React Badge](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=white)
-![Redux Badge](https://img.shields.io/badge/-Redux-593D88?style=flat&logo=redux&logoColor=white)
 ![C++ Badge](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![NodeJS Badge](https://img.shields.io/badge/-NodeJS-43853D?style=flat&logo=node.js&logoColor=white)
 ![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
@@ -48,7 +47,6 @@ Here are some ideas to get you started:
 ![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
 ![Pytorch Badge](https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white)
 ![Ubuntu Badge](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Adobe Photoshop Badge](https://img.shields.io/badge/-Photoshop-26C9FF?style=flat&logo=adobe-photoshop&logoColor=white)
 ![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
